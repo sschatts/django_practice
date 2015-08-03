@@ -35,3 +35,7 @@ Virtual Environment Set-up Steps:
 7. Additional set to install django for the first time:
    pip install django==1.7
    //1.7 should be the version number you want to download
+
+From here went on to follow the tango with django tutorial: http://www.tangowithdjango.com/book17/chapters/setup.html
+
+Follow along at tang0_with_django_tutorial.md
